@@ -1,6 +1,6 @@
 Here's a professional **README.md** for your Lung Disease Detection project:
 
-```markdown
+````markdown
 # 🏥 Lung Disease Detection System
 
 An AI-powered web application that detects **Pneumonia, COVID-19, and Tuberculosis** from chest X-ray images using deep learning.
@@ -34,22 +34,28 @@ https://lungsdiseaseprediction.streamlit.app/
 ## 📋 Installation
 
 ### Prerequisites
+
 - Python 3.8+
 - pip package manager
 
 ### Local Development
+
 1. Clone the repository:
+
 ```bash
-git clone https://github.com/Pratikmehata/lung-disease-detection.git
+git clone https://github.com/dasrohit15/Lungs_Disease_prediction
 cd lung-disease-detection
 ```
+````
 
 2. Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 3. Run the application:
+
 ```bash
 streamlit run app.py
 ```
@@ -90,6 +96,7 @@ lung-disease-detection/
 ## 🌐 Deployment
 
 ### Streamlit Community Cloud
+
 This app is deployed on Streamlit Community Cloud:
 
 1. Push code to GitHub repository
@@ -97,6 +104,7 @@ This app is deployed on Streamlit Community Cloud:
 3. Automatic deployment on every commit to main branch
 
 ### Local Deployment
+
 ```bash
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 ```
@@ -111,7 +119,6 @@ We welcome contributions! Please feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
 ## ⚠️ Medical Disclaimer
 
 **Important**: This application is for educational and research purposes only. It is **NOT** a certified medical device and should **NOT** be used for actual medical diagnosis. Always consult qualified healthcare professionals for medical decisions and treatments.
@@ -125,13 +132,15 @@ We welcome contributions! Please feel free to:
 ## 📞 Support
 
 For questions or support:
+
 - Create an [Issue](https://github.com/your-username/lung-disease-detection/issues)
-- Email: pratikmehta061.com
+- Email: dasrohit1636@gmail.com
 
 ---
 
 **Note**: This project is part of ongoing research in medical AI. Always verify results with healthcare professionals before making medical decisions.
-```
+
+````
 
 
 ### **Add Dataset Information**
@@ -142,5 +151,4 @@ This project uses chest X-ray images from:
 - [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 - [Tuberculosis (TB) Chest X-ray Database](https://www.kaggle.com/tawsifurrahman/tuberculosis-tb-chest-xray-dataset)
-```
-
+````
