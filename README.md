@@ -20,7 +20,7 @@ An AI-powered web application that detects **Pneumonia, COVID-19, and Tuberculos
 
 ## 🚀 Live Demo
 
-[https://lungsdiseaseprediction.streamlit.app/](https://15rohit-lung-pred.streamlit.app/)
+[https://15rohit-lung-pred.streamlit.app/
 
 ## 🛠️ Technology Stack
 
